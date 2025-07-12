@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>PayloadContent</key>
+  <array>
+    <dict>
+      <key>Password</key>
+      <string>qwerty</string>
+      <key>PayloadCertificateFileName</key>
+      <string>client.p12</string>
+      <key>PayloadContent</key>
+      <data>
+        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
+      </data>
+      <key>PayloadDescription</key>
+      <string>Installs client certificate</string>
+      <key>PayloadDisplayName</key>
+      <string>Client Certificate</string>
+      <key>PayloadIdentifier</key>
+      <string>com.zap.cert.client</string>
+      <key>PayloadType</key>
+      <string>com.apple.security.pkcs12</string>
+      <key>PayloadUUID</key>
+      <string>EFD8B7DD-4ACD-4A76-913F-22022C5CD649</string>
+      <key>PayloadVersion</key>
+      <integer>1</integer>
+    </dict>
+  </array>
+  <key>PayloadDisplayName</key>
+  <string>My Cert Profile</string>
+  <key>PayloadIdentifier</key>
+  <string>com.example.profile.cert</string>
+  <key>PayloadRemovalDisallowed</key>
+  <false/>
+  <key>PayloadType</key>
+  <string>Configuration</string>
+  <key>PayloadUUID</key>
+  <string>20E28352-037A-4BF4-A354-05B5A9101735</string>
+  <key>PayloadVersion</key>
+  <integer>1</integer>
+</dict>
+</plist>
